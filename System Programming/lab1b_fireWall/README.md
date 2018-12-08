@@ -18,3 +18,4 @@
 
 IN CASE OF INVALID MESSAGE THE STATE SHOULD BE RESET TO 1 (INIT)
 
+> *by [@artloko](https://github.com/artloko)*
