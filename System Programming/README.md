@@ -5,6 +5,7 @@
   - [lab2_showTheProcesses](https://github.com/artloko/BSU/tree/master/System%20Programming/lab2_showTheProcesses)
   - [lab3_InterProcessCommunication](https://github.com/artloko/BSU/tree/master/System%20Programming/lab3_InterProcessCommunication)
   - [lab4_secureCoding](https://github.com/artloko/BSU/tree/master/System%20Programming/lab4_secureCoding)
+  - [lab5_creatin'n'usingDLLs](https://github.com/artloko/BSU/tree/master/System%20Programming/lab5_creatin'n'usingDLLs)
      
 > *by [@artloko](https://github.com/artloko)*
  
