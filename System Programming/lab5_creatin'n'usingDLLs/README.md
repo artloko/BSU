@@ -41,7 +41,7 @@
   - Solution Explorer -> *"Solution Name"* -> Add Project -> Dynamic Link Library (х2)
   - Solution Explorer -> *"Solution Name"* -> Add Project -> Static Link Library
   
-  Копируем исходный код соответсвующим образом.
+  Копируем исходный код соответствующим образом.
   Билдим наши .dll и .lib
   
   ##### Связываем
