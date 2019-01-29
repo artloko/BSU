@@ -4,6 +4,6 @@
 
 ## How to install and set up MPI
 
-[Configuring Microsoft Visual Studio 2017 for OpenMP](https://www.youtube.com/watch?v=6UIcjxjLXkM)
+YouTube tutorial - [Configuring Microsoft Visual Studio 2017 for OpenMP](https://www.youtube.com/watch?v=6UIcjxjLXkM)
 
   > *by [@artloko](https://github.com/artloko)*
