@@ -60,7 +60,7 @@ start cmd /k "mpiexec -n %ProcessCount% %AppPath%"
   2. Для компиляции: mpicxx -o <имя_исполняемого_файла> <файл_исходного_кода> --std=c++11
   3. Для запуска: mpirun -n <число_процессов> <исполняемый_файл>
   
-  > *Manual was written by [@Igorious](https://github.com/Igorious)*
+  > *The manual was written by [@Igorious](https://github.com/Igorious)*
 
 
   > *by [@artloko](https://github.com/artloko)*
