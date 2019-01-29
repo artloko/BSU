@@ -1,0 +1,4 @@
+Exception in thread "main" java.lang.AssertionError: Assertion failed: N > 0
+	at z3_2.Matrix.Print(Matrix.java:61)
+	at z3_2.test.main(test.java:56)
+gnumake.EXE: *** [run] Error 1

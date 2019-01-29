@@ -1,0 +1,48 @@
+javac -g z3_2\Matrix.java
+javac -g z3_2\test.java
+jar -cfe test.jar z3_2.test z3_2\Matrix.class z3_2\test.class
+java -ea -jar test.jar
+1
+ 8 9
+ 2 6
+
+2
+ 8 9
+ 2 6
+
+3
+ 8 9
+ 2 6
+
+4
+ 8 9
+ 2 6
+
+5
+ 8 9
+ 2 6
+
+6
+ 8 9
+ 2 6
+
+7
+ 8 9
+ 2 6
+
+8
+ 8 9
+ 2 6
+
+9
+ 8 9
+ 2 6
+
+10
+ 8 9
+ 2 6
+
+matrix #1 has minimal norm-1 (17) and norm-2 (15)
+matrix #1 has minimal norm-1 (17)
+matrix #1 has minimal norm-2 (15)
+---test assert---

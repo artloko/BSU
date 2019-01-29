@@ -1,0 +1,25 @@
+----- Sorted by: *Contact
+*Contact *Mobile  Work     Home     E-mail           WWW-page         Address  
+Ann      2345678  8765432           nann@gmail.com                             
+Empty    0000000                                                               
+Joahn    1234567  9876543           joahn@gmail.com                            
+Mary     3456789  7654321           mary@gmail.com                             
+----- Sorted by: *Mobile
+*Contact *Mobile  Work     Home     E-mail           WWW-page         Address  
+Empty    0000000                                                               
+Joahn    1234567  9876543           joahn@gmail.com                            
+Ann      2345678  8765432           nann@gmail.com                             
+Mary     3456789  7654321           mary@gmail.com                             
+----- Sorted by: Work
+*Contact *Mobile  Work     Home     E-mail           WWW-page         Address  
+Empty    0000000                                                               
+Mary     3456789  7654321           mary@gmail.com                             
+Ann      2345678  8765432           nann@gmail.com                             
+Joahn    1234567  9876543           joahn@gmail.com                            
+----- Sorted by: E-mail
+*Contact *Mobile  Work     Home     E-mail           WWW-page         Address  
+Empty    0000000                                                               
+Joahn    1234567  9876543           joahn@gmail.com                            
+Mary     3456789  7654321           mary@gmail.com                             
+Ann      2345678  8765432           nann@gmail.com                             
+Exception: Contact$ArgException: Invalid argument: [Test exception object]
