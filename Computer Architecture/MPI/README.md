@@ -1,4 +1,8 @@
-# How to install and set up MPI
+# MPI
+
+[Условия задания в формате docx](https://github.com/artloko/BSU/blob/master/Computer%20Architecture/MPI/%D0%9B%D0%B0%D0%B1.1%20%E2%80%94%20%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D1%8F%20(MPI).docx)
+
+## How to install and set up MPI
 
 MSDN : https://msdn.microsoft.com/en-us/library/bb524831(v=vs.85).aspx 
 
