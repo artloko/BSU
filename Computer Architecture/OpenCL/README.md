@@ -44,4 +44,7 @@
 Файлы с *ядром* обычно называют с расширением *.cl. В нём представлен код на языке С99 с некоторыми расширениями.
 Если у вас поставлена Студия и версия OpenCL для Intel, то для этих файлов у вас будет полная поддержка IntelliSense (будут подсвечены новые ключевые слова, в списках будут перечислены встроенные функции).
 
-  > *by [@artloko](https://github.com/artloko)*
+ > *The manual was written by [@Igorious](https://github.com/Igorious)*
+ 
+ 
+ > *by [@artloko](https://github.com/artloko)*
