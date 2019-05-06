@@ -6,10 +6,10 @@
 #### TERM :three:
 | Subject | Language/Technology |
  | --- | --- |
- | :computer:Computer Science | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), [Java](https://github.com/artloko/BSU/search?l=Java) |
- | :bulb:Algorithms &amp; Data Structures | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), [Java](https://github.com/artloko/BSU/search?l=Java) |
- | :cd:System Programming | [C](https://github.com/artloko/BSU/search?l=C) |
- | :wrench:Computer Architecture | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), MPI, OpenCL, OpenMP |
+ | :computer:[Computer Science](https://github.com/artloko/BSU/tree/master/Computer%20Science) | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), [Java](https://github.com/artloko/BSU/search?l=Java) |
+ | :bulb:[Algorithms &amp; Data Structures](https://github.com/artloko/BSU/tree/master/Algorithms%20%26%20Data%20Structures) | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), [Java](https://github.com/artloko/BSU/search?l=Java) |
+ | :cd:[System Programming](https://github.com/artloko/BSU/tree/master/System%20Programming) | [C](https://github.com/artloko/BSU/search?l=C) |
+ | :wrench:[Computer Architecture](https://github.com/artloko/BSU/tree/master/Computer%20Architecture) | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), MPI, OpenCL, OpenMP |
 
 #### TERM :four:
 | Subject | Language/Technology |
