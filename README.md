@@ -1,9 +1,9 @@
-# BSU
-:school:Repository for Computer Science/Algorithms &amp; Data Structures etc. labs on [FAMCS](https://fpmi.bsu.by/en/main.aspx), [BSU](https://www.bsu.by/)
+# BSU :school:
+## **Repository for Computer Science/Algorithms &amp; Data Structures etc. labs on [FAMCS](https://fpmi.bsu.by/en/main.aspx), [BSU](https://www.bsu.by/)**
 
 ### Applied Computer Science
 
-#### Term 3
+#### TERM :three:
 | Subject | Language/Technology |
  | --- | --- |
  | :computer:Computer Science | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), [Java](https://github.com/artloko/BSU/search?l=Java) |
@@ -11,7 +11,7 @@
  | :cd:System Programming | [C](https://github.com/artloko/BSU/search?l=C) |
  | :wrench:Computer Architecture | [C++](https://github.com/artloko/BSU/search?l=C%2B%2B), MPI, OpenCL, OpenMP |
 
-#### Term 4
+#### TERM :four:
 | Subject | Language/Technology |
 | --- | --- |
 | :closed_lock_with_key: Cryptographic Methods | [Java](https://github.com/artloko/BSU/search?l=Java) |
