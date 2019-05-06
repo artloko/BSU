@@ -1,4 +1,7 @@
 # BSU :school:
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/af19e35513144a4a9492a03f125d2e24)](https://app.codacy.com/app/artloko/BSU?utm_source=github.com&utm_medium=referral&utm_content=artloko/BSU&utm_campaign=Badge_Grade_Dashboard)
+
 ## **Repository for Computer Science/Algorithms &amp; Data Structures etc. labs on [FAMCS](https://fpmi.bsu.by/en/main.aspx), [BSU](https://www.bsu.by/)**
 
 ### Applied Computer Science
