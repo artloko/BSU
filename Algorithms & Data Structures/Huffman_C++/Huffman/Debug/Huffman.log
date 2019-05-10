@@ -1,3 +1,0 @@
-﻿  Main.cpp
-c:\users\user\documents\visual studio 2017\projects\huffman\huffman\main.cpp(23): warning C4326: return type of 'main' should be 'int' instead of 'void'
-  Huffman.vcxproj -> C:\Users\USER\Documents\Visual Studio 2017\Projects\Huffman\Debug\Huffman.exe
