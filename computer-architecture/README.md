@@ -1,7 +1,7 @@
 # Computer Architecture
 
-  - [MPI](https://github.com/artloko/BSU/tree/master/Computer%20Architecture/MPI)
-  - [OpenCL](https://github.com/artloko/BSU/tree/master/Computer%20Architecture/OpenCL)
-  - [OpenMP](https://github.com/artloko/BSU/tree/master/Computer%20Architecture/OpenMP)
+  - [MPI](https://github.com/artloko/BSU/tree/master/computer-architecture/MPI)
+  - [OpenCL](https://github.com/artloko/BSU/tree/master/computer-architecture/OpenCL)
+  - [OpenMP](https://github.com/artloko/BSU/tree/master/computer-architecture/OpenMP)
   
 > *by [@artloko](https://github.com/artloko)*
